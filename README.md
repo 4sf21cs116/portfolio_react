@@ -1,6 +1,5 @@
 
-# 💼 Developer Portfolio – Built with React
-
+# 💼portfolio_react
 A personal developer portfolio website built using **React** and **CSS** to showcase projects, skills, and contact information. The site highlights frontend skills and offers a clean, responsive design tailored for aspiring developers and job seekers.
 
 ---
