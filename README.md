@@ -44,6 +44,9 @@ A personal developer portfolio website built using **React** and **CSS** to show
 ---
 
 ## 📸 Preview
-(./myapp/image.png)
+|------------------|
+| ![Preview](./myapp/image.png) |
+
+---
 
 
